@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Björns Portfolio</title>
+    <link>https://otakufreak13.github.io/tags/</link>
+    <description>Recent content in Tags on Björns Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3d</title>
+      <link>https://otakufreak13.github.io/tags/3d/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metaballs</title>
+      <link>https://otakufreak13.github.io/tags/metaballs/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/metaballs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://otakufreak13.github.io/tags/programming/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raymarching</title>
+      <link>https://otakufreak13.github.io/tags/raymarching/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/raymarching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webgl</title>
+      <link>https://otakufreak13.github.io/tags/webgl/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/webgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>def</title>
+      <link>https://otakufreak13.github.io/tags/def/</link>
+      <pubDate>Thu, 15 Apr 2021 23:39:49 +0530</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/def/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xyz</title>
+      <link>https://otakufreak13.github.io/tags/xyz/</link>
+      <pubDate>Thu, 15 Apr 2021 23:39:49 +0530</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/xyz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
