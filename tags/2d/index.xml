@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D on WIP Portfolio for Björn</title>
+    <link>https://otakufreak13.github.io/tags/2d/</link>
+    <description>Recent content in 2D on WIP Portfolio for Björn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jun 2022 02:41:35 +0200</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/2d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity 2D: Game Physics - Projectiles, Explosions and Shockwaves</title>
+      <link>https://otakufreak13.github.io/projects/gamephysicsexplosion/</link>
+      <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
+      
+      <guid>https://otakufreak13.github.io/projects/gamephysicsexplosion/</guid>
+      <description>Unity 2D project for Game Pysics course Woops... This page is under development. Please come back at a later date for a hopfully completed page!</description>
+    </item>
+    
+  </channel>
+</rss>

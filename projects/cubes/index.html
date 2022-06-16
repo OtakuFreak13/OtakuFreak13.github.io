@@ -17,25 +17,25 @@
     
 
     
-    <title>WebGL</title>
+    <title>3D Cubes in WebGL</title>
     <meta name="description" content="Welcome to a site made to showcase my experience, education and projects.">
-    <meta name="keywords" content='portfolio, programmer, gamedev, 3d, programming, webgl, metaballs, raymarching'>
+    <meta name="keywords" content='portfolio, programmer, gamedev, 3d, programming, webgl'>
 
-    <meta property="og:url" content="https://otakufreak13.github.io/projects/webgl/">
+    <meta property="og:url" content="https://otakufreak13.github.io/projects/cubes/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="WebGL">
+    <meta property="og:title" content="3D Cubes in WebGL">
     <meta property="og:description" content="Welcome to a site made to showcase my experience, education and projects.">
     <meta property="og:image" content="/images/SelfieHiking.jpg">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="WebGL">
+    <meta name="twitter:title" content="3D Cubes in WebGL">
     <meta name="twitter:description" content="Welcome to a site made to showcase my experience, education and projects.">
-    <meta property="twitter:domain" content="https://otakufreak13.github.io/projects/webgl/">
-    <meta property="twitter:url" content="https://otakufreak13.github.io/projects/webgl/">
+    <meta property="twitter:domain" content="https://otakufreak13.github.io/projects/cubes/">
+    <meta property="twitter:url" content="https://otakufreak13.github.io/projects/cubes/">
     <meta name="twitter:image" content="/images/SelfieHiking.jpg">
 
     
-    <link rel="canonical" href="https://otakufreak13.github.io/projects/webgl/" />
+    <link rel="canonical" href="https://otakufreak13.github.io/projects/cubes/" />
 
     <link rel="stylesheet" type="text/css" href="https://otakufreak13.github.io/css/normalize.min.css" media="print" onload="this.media='all'">
     <link rel="stylesheet" type="text/css" href="https://otakufreak13.github.io/css/main.css">
@@ -138,7 +138,7 @@
 <main id="content">
     <div class="post container">
     <div class="post-header-section">
-        <h1>WebGL</h1>
+        <h1>3D Cubes in WebGL</h1>
         <small role="doc-subtitle"></small>
         <p class="post-date">
             June 7, 2022
@@ -152,36 +152,110 @@
         
             <li class="post-tag"><a href="https://otakufreak13.github.io/tags/webgl">webgl</a></li>
         
-            <li class="post-tag"><a href="https://otakufreak13.github.io/tags/metaballs">metaballs</a></li>
-        
-            <li class="post-tag"><a href="https://otakufreak13.github.io/tags/raymarching">raymarching</a></li>
-        
         </ul>
     </div>
 
     <div class="post-content">
         <p>
-            <h2 id="metaballs-in-webgl">Metaballs in WebGL</h2>
-<p>This is the colmination of the WebGL course I took.<br>
-Basicaly the only thing that is sent to the shaders is a rectrectangle, in my case a point that is very large, that covers the whole canvas.
-It is in this rectangle where all the raymarching takes place in the fragment shader.
-The core parts of the raymarching is from Jamie Wongs tutorial at <a href="http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/">http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/</a>.</p>
+            <h2 id="cubes-in-3d-space">Cubes in 3D space</h2>
+<p>This is one of the assignments in the WebGL course.
+The textures don&rsquo;t allways load in. 
+Usually Loads in an a reload.
 <div class="metaballs container">
 
-    <canvas id="canvasMetaBalls" width="800" height="500"></canvas>
-    
-    <p>
-        <div class="fps">FPS: <span id="fpsBalls"> </span> </div>
-    </p>
+    <h1>
+        <center>Canvas Sandbox - Cubes in space</center>
+    </h1>
+
+    <div class="container">
+        <canvas id="canvasCubes3D" width="800" height="500"></canvas>
+        <div id="hud">
+            <div>FPS: <span id="fpsCubes"> </span> </div>
+        </div>
+    </div>
+
+
+
 
     <p>
-        <input id="playBalls" type="button" value="play" />
-        <input id="pauseBalls" type="button" value="pause" />
+        <input id="playCubes" type="button" value="play" />
+        <input id="pauseCubes" type="button" value="pause" />
+        Speed: <input id="speed" type="range" step="0.01" min="0.01" max="10.0" value="0.1" />
     </p>
+    <table>
+        <tr>
+            <th></th>
+            <th>x</th>
+            <th>y</th>
+            <th>z</th>
+        </tr>
+        <tr>
+            <td>Eye point</td>
+            <td><input id="eyeX" name="eyeX" type="number" value="0" /></td>
+            <td><input id="eyeY" name="eyeY" type="number" value="-15" /></td>
+            <td><input id="eyeZ" name="eyeZ" type="number" value="15" /></td>
+        </tr>
+        <tr>
+            <td>Look at point</td>
+            <td><input id="atX" name="atX" type="number" value="0" /></td>
+            <td><input id="atY" name="atY" type="number" value="0" /></td>
+            <td><input id="atZ" name="atZ" type="number" value="0" /></td>
+        </tr>
+        <tr>
+            <td>Up vector</td>
+            <td><input id="upX" name="upX" type="number" value="0" /></td>
+            <td><input id="upY" name="upY" type="number" value="0" /></td>
+            <td><input id="upZ" name="upZ" type="number" value="0" /></td>
+        </tr>
+    </table>
 
-    <p> 
-        To move around in scene use WASD and spacebar/shift to go up and down .
-    </p>
+    <table>
+        <tr>
+            <th></th>
+            <th>Angle</th>
+            <th>x</th>
+            <th>y</th>
+            <th>z</th>
+        </tr>
+        <tr>
+            <td>Rotate</td>
+            <td><input id="angle" name="angle" type="number" value="0" /></td>
+            <td><input id="rx" name="rx" type="number" value="0" /></td>
+            <td><input id="ry" name="ry" type="number" value="0" /></td>
+            <td><input id="rz" name="rz" type="number" value="0" /></td>
+        </tr>
+        <tr>
+            <td>Translate</td>
+            <td></td>
+            <td><input id="tx" name="tx" type="number" value="0" /></td>
+            <td><input id="ty" name="ty" type="number" value="0" /></td>
+            <td><input id="tz" name="tz" type="number" value="0" /></td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <th></th>
+            <th>fov</th>
+            <th>aspect</th>
+            <th>near</th>
+            <th>far</th>
+        </tr>
+        <tr>
+            <td>Projection</td>
+            <td><input id="fov" name="fov" type="number" value="0" /></td>
+            <td><input id="aspect" name="aspect" type="number" value="1.6" /></td>
+            <td><input id="near" name="near" type="number" value="0" /></td>
+            <td><input id="far" name="far" type="number" value="0" /></td>
+        </tr>
+    </table>
+
+    <input id="update" type="button" value="Update" />
+
+
+    <img id="chessTexImg"   src="https://otakufreak13.github.io/images/chessBoard.jpg" width="0" height="0">
+    <img id="cubeTexImg"    src="https://otakufreak13.github.io/images/square-pattern.jpg" width="0" height="0">
+    <img id="helixTexImg"   src="https://otakufreak13.github.io/images/helix-nebula.jpg" width="0" height="0">
 
     <script type="text/javascript" src="https://otakufreak13.github.io/lib/gl-matrix-min.js"></script>
     <script type="text/javascript" src="https://otakufreak13.github.io/lib/webgl-utils.js"></script>
@@ -189,10 +263,8 @@ The core parts of the raymarching is from Jamie Wongs tutorial at <a href="http:
     <script type="text/javascript" src="https://otakufreak13.github.io/lib/cuon-utils.js"></script>
     <script type="text/javascript" src="https://otakufreak13.github.io/lib/cuon-matrix.js"></script>
     <script type="text/javascript" src="https://otakufreak13.github.io/lib/shader.js"></script>
-    <script type="text/javascript" src="https://otakufreak13.github.io/js/metaballs.js"></script>
-
-
-</div>
+    <script type="text/javascript" src="https://otakufreak13.github.io/js/cubesin3d.js"></script>
+</div></p>
 
         </p>
     </div>

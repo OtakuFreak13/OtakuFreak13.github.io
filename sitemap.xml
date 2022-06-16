@@ -2,25 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://otakufreak13.github.io/tags/3d/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+    <loc>https://otakufreak13.github.io/tags/2d/</loc>
+    <lastmod>2022-06-16T02:41:35+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/game/</loc>
+    <lastmod>2022-06-16T02:41:35+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/programming/</loc>
+    <lastmod>2022-06-16T02:41:35+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/project/</loc>
+    <lastmod>2022-06-16T02:41:35+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/projects/</loc>
+    <lastmod>2022-06-16T02:41:35+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/</loc>
+    <lastmod>2022-06-16T02:41:35+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/unity/</loc>
+    <lastmod>2022-06-16T02:41:35+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/projects/gamephysicsexplosion/</loc>
+    <lastmod>2022-06-16T02:41:35+02:00</lastmod>
   </url><url>
     <loc>https://otakufreak13.github.io/</loc>
+    <lastmod>2022-06-16T02:41:35+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/3d/</loc>
+    <lastmod>2022-06-16T02:27:15+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/opengl/</loc>
+    <lastmod>2022-06-16T02:27:15+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/projects/smallgameproject/</loc>
+    <lastmod>2022-06-16T02:27:15+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/dx12/</loc>
+    <lastmod>2022-06-16T02:00:14+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/projects/largegameproject/</loc>
+    <lastmod>2022-06-16T02:00:14+02:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/projects/cubes/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://otakufreak13.github.io/tags/metaballs/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://otakufreak13.github.io/tags/programming/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://otakufreak13.github.io/projects/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://otakufreak13.github.io/tags/raymarching/</loc>
-    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://otakufreak13.github.io/tags/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://otakufreak13.github.io/tags/webgl/</loc>
@@ -28,6 +58,18 @@
   </url><url>
     <loc>https://otakufreak13.github.io/projects/webgl/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/def/</loc>
+    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/posts/lerem-isum/</loc>
+    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/posts/</loc>
+    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
+  </url><url>
+    <loc>https://otakufreak13.github.io/tags/xyz/</loc>
+    <lastmod>2021-04-15T23:39:49+05:30</lastmod>
   </url><url>
     <loc>https://otakufreak13.github.io/categories/</loc>
   </url><url>

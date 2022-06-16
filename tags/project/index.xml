@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project on WIP Portfolio for Björn</title>
+    <link>https://otakufreak13.github.io/tags/project/</link>
+    <description>Recent content in project on WIP Portfolio for Björn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jun 2022 02:41:35 +0200</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity 2D: Game Physics - Projectiles, Explosions and Shockwaves</title>
+      <link>https://otakufreak13.github.io/projects/gamephysicsexplosion/</link>
+      <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
+      
+      <guid>https://otakufreak13.github.io/projects/gamephysicsexplosion/</guid>
+      <description>Unity 2D project for Game Pysics course Woops... This page is under development. Please come back at a later date for a hopfully completed page!</description>
+    </item>
+    
+    <item>
+      <title>SmallGameProject</title>
+      <link>https://otakufreak13.github.io/projects/smallgameproject/</link>
+      <pubDate>Thu, 16 Jun 2022 02:27:15 +0200</pubDate>
+      
+      <guid>https://otakufreak13.github.io/projects/smallgameproject/</guid>
+      <description>Small Game Project: KamiCarZe A smaller game project that took 3 months for me and 5 other students to complete. Made in one of the students OpenGL engine. Link to the game</description>
+    </item>
+    
+    <item>
+      <title>LargeGameProject</title>
+      <link>https://otakufreak13.github.io/projects/largegameproject/</link>
+      <pubDate>Thu, 16 Jun 2022 02:00:14 +0200</pubDate>
+      
+      <guid>https://otakufreak13.github.io/projects/largegameproject/</guid>
+      <description>Large Game Project: Hell Loop Game project spanning a whole semester with 9 other students made in a costum DX12 engine some of the students had ready from another course. Link to the game</description>
+    </item>
+    
+  </channel>
+</rss>
