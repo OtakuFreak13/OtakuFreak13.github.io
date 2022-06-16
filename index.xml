@@ -13,7 +13,7 @@
       <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
       
       <guid>https://otakufreak13.github.io/projects/gamephysicsexplosion/</guid>
-      <description>Unity 2D project for Game Pysics course Woops... This page is under development. Please come back at a later date for a hopfully completed page!</description>
+      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion physics. </description>
     </item>
     
     <item>
@@ -52,15 +52,6 @@
       <description>Metaballs in WebGL This is the colmination of the WebGL course I took.
 Basicaly the only thing that is sent to the shaders is a rectrectangle, in my case a point that is very large, that covers the whole canvas. It is in this rectangle where all the raymarching takes place in the fragment shader. The core parts of the raymarching is from Jamie Wongs tutorial at http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/.
 FPS: To move around in scene use WASD and spacebar/shift to go up and down .</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>https://otakufreak13.github.io/posts/lerem-isum/</link>
-      <pubDate>Thu, 15 Apr 2021 23:39:49 +0530</pubDate>
-      
-      <guid>https://otakufreak13.github.io/posts/lerem-isum/</guid>
-      <description>Heading 1 &amp;ldquo;Lorem ipsum dolor sit amet, consectetaur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
