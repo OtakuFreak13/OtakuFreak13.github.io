@@ -78,19 +78,19 @@
         <div class="nav-links">
             
             <div class="nav-link">
-                <a href="https://otakufreak13.github.io/docs/cv_bj.pdf"> Resume </a>
-            </div>
-            
-            <div class="nav-link">
                 <a href="https://otakufreak13.github.io/projects/"> Projects </a>
             </div>
             
             <div class="nav-link">
-                <a href="https://otakufreak13.github.io/tags/"> Tags </a>
+                <a href="https://otakufreak13.github.io/tags/"> Project Tags </a>
             </div>
             
             <div class="nav-link">
                 <a href="https://github.com/OtakuFreak13/OtakuFreakHugoSite"><span data-feather='github'></span>  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://otakufreak13.github.io">  </a>
             </div>
             
 
@@ -111,19 +111,19 @@
             <ul class="nav-hamburger-list visibility-hidden">
                 
                 <li class="nav-item">
-                    <a href="https://otakufreak13.github.io/docs/cv_bj.pdf"> Resume </a>
-                </li>
-                
-                <li class="nav-item">
                     <a href="https://otakufreak13.github.io/projects/"> Projects </a>
                 </li>
                 
                 <li class="nav-item">
-                    <a href="https://otakufreak13.github.io/tags/"> Tags </a>
+                    <a href="https://otakufreak13.github.io/tags/"> Project Tags </a>
                 </li>
                 
                 <li class="nav-item">
                     <a href="https://github.com/OtakuFreak13/OtakuFreakHugoSite"><span data-feather='github'></span>  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://otakufreak13.github.io">  </a>
                 </li>
                 
                 <li class="nav-item dark-theme-toggle">
@@ -149,9 +149,19 @@
 
 <div class="flex-break"></div>
 
+<style>
+button:hover{
+    color: var(--accent-color);
+    fill: var(--accent-color);
+}
+</style>
 
-<section class="social-icons">
-    <ul class="social-icons-list">
+<section class="social-icons" >
+    <ul class="social-icons-list" style="position:relative;">
+        <a >  
+            <button onclick="window.location.href='/docs/cv_bj.pdf'" style="position: absolute; top: -3%; left: -72%" >
+            <font size="+1">Resume</font></button>
+        </a>
         
         <li class="social-icon">
             <a href="https://www.linkedin.com/in/bj%C3%B6rn-johansson-3b20371a8/">
@@ -162,6 +172,12 @@
         <li class="social-icon">
             <a href="https://github.com/otakufreak13">
                 <img class="svg-inject" src="/icons/github.svg" />
+            </a>
+        </li>
+        
+        <li class="social-icon">
+            <a href="%7b%7b%20.Site.BaseURL%20%7d%7d/docs/cv_bj.pdf">
+                <img class="svg-inject" src="/icons/Resume.svg" />
             </a>
         </li>
         
