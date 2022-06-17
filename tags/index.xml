@@ -1,106 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on WIP Portfolio for Björn</title>
+    <title>Tags on Portfolio for Björn</title>
     <link>https://otakufreak13.github.io/tags/</link>
-    <description>Recent content in Tags on WIP Portfolio for Björn</description>
+    <description>Recent content in Tags on Portfolio for Björn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jun 2022 02:41:35 +0200</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2D</title>
-      <link>https://otakufreak13.github.io/tags/2d/</link>
-      <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/tags/2d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>game</title>
-      <link>https://otakufreak13.github.io/tags/game/</link>
-      <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>physics</title>
-      <link>https://otakufreak13.github.io/tags/physics/</link>
-      <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/tags/physics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://otakufreak13.github.io/tags/programming/</link>
-      <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>project</title>
-      <link>https://otakufreak13.github.io/tags/project/</link>
-      <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unity</title>
-      <link>https://otakufreak13.github.io/tags/unity/</link>
-      <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/tags/unity/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3d</title>
       <link>https://otakufreak13.github.io/tags/3d/</link>
-      <pubDate>Thu, 16 Jun 2022 02:27:15 +0200</pubDate>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/tags/3d/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>OpenGL</title>
-      <link>https://otakufreak13.github.io/tags/opengl/</link>
-      <pubDate>Thu, 16 Jun 2022 02:27:15 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/tags/opengl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DX12</title>
-      <link>https://otakufreak13.github.io/tags/dx12/</link>
-      <pubDate>Thu, 16 Jun 2022 02:00:14 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/tags/dx12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>metaballs</title>
       <link>https://otakufreak13.github.io/tags/metaballs/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/tags/metaballs/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>programming</title>
+      <link>https://otakufreak13.github.io/tags/programming/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>raymarching</title>
       <link>https://otakufreak13.github.io/tags/raymarching/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/tags/raymarching/</guid>
       <description></description>
@@ -109,9 +46,72 @@
     <item>
       <title>webgl</title>
       <link>https://otakufreak13.github.io/tags/webgl/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/tags/webgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DX12</title>
+      <link>https://otakufreak13.github.io/tags/dx12/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/dx12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://otakufreak13.github.io/tags/game/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://otakufreak13.github.io/tags/project/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenGL</title>
+      <link>https://otakufreak13.github.io/tags/opengl/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/opengl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2D</title>
+      <link>https://otakufreak13.github.io/tags/2d/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physics</title>
+      <link>https://otakufreak13.github.io/tags/physics/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://otakufreak13.github.io/tags/unity/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/tags/unity/</guid>
       <description></description>
     </item>
     

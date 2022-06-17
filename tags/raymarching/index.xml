@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>raymarching on WIP Portfolio for Björn</title>
+    <title>raymarching on Portfolio for Björn</title>
     <link>https://otakufreak13.github.io/tags/raymarching/</link>
-    <description>Recent content in raymarching on WIP Portfolio for Björn</description>
+    <description>Recent content in raymarching on Portfolio for Björn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/raymarching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/raymarching/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>WebGL</title>
+      <title>Swedish Metaballs</title>
       <link>https://otakufreak13.github.io/projects/webgl/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/projects/webgl/</guid>
       <description>Metaballs in WebGL This is the colmination of the WebGL course I took.

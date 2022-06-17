@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WIP Portfolio for Björn</title>
+    <title>Portfolio for Björn</title>
     <link>https://otakufreak13.github.io/</link>
-    <description>Recent content on WIP Portfolio for Björn</description>
+    <description>Recent content on Portfolio for Björn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jun 2022 02:41:35 +0200</lastBuildDate><atom:link href="https://otakufreak13.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unity 2D: Game Physics - Projectiles, Explosions and Shockwaves</title>
-      <link>https://otakufreak13.github.io/projects/gamephysicsexplosion/</link>
-      <pubDate>Thu, 16 Jun 2022 02:41:35 +0200</pubDate>
+      <title>Swedish Metaballs</title>
+      <link>https://otakufreak13.github.io/projects/webgl/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://otakufreak13.github.io/projects/gamephysicsexplosion/</guid>
-      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion physics. </description>
-    </item>
-    
-    <item>
-      <title>SmallGameProject</title>
-      <link>https://otakufreak13.github.io/projects/smallgameproject/</link>
-      <pubDate>Thu, 16 Jun 2022 02:27:15 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/projects/smallgameproject/</guid>
-      <description>Small Game Project: KamiCarZe A smaller game project that took 3 months for me and 5 other students to complete. Made in one of the students OpenGL engine. Link to the game</description>
-    </item>
-    
-    <item>
-      <title>LargeGameProject</title>
-      <link>https://otakufreak13.github.io/projects/largegameproject/</link>
-      <pubDate>Thu, 16 Jun 2022 02:00:14 +0200</pubDate>
-      
-      <guid>https://otakufreak13.github.io/projects/largegameproject/</guid>
-      <description>Large Game Project: Hell Loop Game project spanning a whole semester with 9 other students made in a costum DX12 engine some of the students had ready from another course. Link to the game</description>
+      <guid>https://otakufreak13.github.io/projects/webgl/</guid>
+      <description>Metaballs in WebGL This is the colmination of the WebGL course I took.
+Basicaly the only thing that is sent to the shaders is a rectrectangle, in my case a point that is very large, that covers the whole canvas. It is in this rectangle where all the raymarching takes place in the fragment shader. The core parts of the raymarching is from Jamie Wongs tutorial at http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/.
+FPS: To move around in scene use WASD and spacebar/shift to go up and down .</description>
     </item>
     
     <item>
       <title>3D Cubes in WebGL</title>
       <link>https://otakufreak13.github.io/projects/cubes/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/projects/cubes/</guid>
       <description>Cubes in 3D space This is one of the assignments in the WebGL course. The textures don&amp;rsquo;t allways load in. Usually Loads in an a reload. Canvas Sandbox - Cubes in spaceFPS: Speed: xyzEye pointLook at pointUp vectorAnglexyzRotateTranslatefovaspectnearfarProjection</description>
     </item>
     
     <item>
-      <title>WebGL</title>
-      <link>https://otakufreak13.github.io/projects/webgl/</link>
-      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <title>LargeGameProject</title>
+      <link>https://otakufreak13.github.io/projects/largegameproject/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://otakufreak13.github.io/projects/webgl/</guid>
-      <description>Metaballs in WebGL This is the colmination of the WebGL course I took.
-Basicaly the only thing that is sent to the shaders is a rectrectangle, in my case a point that is very large, that covers the whole canvas. It is in this rectangle where all the raymarching takes place in the fragment shader. The core parts of the raymarching is from Jamie Wongs tutorial at http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/.
-FPS: To move around in scene use WASD and spacebar/shift to go up and down .</description>
+      <guid>https://otakufreak13.github.io/projects/largegameproject/</guid>
+      <description>Large Game Project: Hell Loop Game project spanning a whole semester with 9 other students made in a costum DX12 engine some of the students had ready from another course. Link to the game</description>
+    </item>
+    
+    <item>
+      <title>SmallGameProject</title>
+      <link>https://otakufreak13.github.io/projects/smallgameproject/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/projects/smallgameproject/</guid>
+      <description>Small Game Project: KamiCarZe A smaller game project that took 3 months for me and 5 other students to complete. Made in one of the students OpenGL engine. Link to the game</description>
+    </item>
+    
+    <item>
+      <title>Unity 2D: Game Physics - Projectiles, Explosions and Shockwaves</title>
+      <link>https://otakufreak13.github.io/projects/gamephysicsexplosion/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/projects/gamephysicsexplosion/</guid>
+      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion physics. </description>
     </item>
     
     <item>
