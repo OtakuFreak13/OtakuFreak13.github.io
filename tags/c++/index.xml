@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3d on Welcome to My Portfolio!</title>
-    <link>https://otakufreak13.github.io/tags/3d/</link>
-    <description>Recent content in 3d on Welcome to My Portfolio!</description>
+    <title>c&#43;&#43; on Welcome to My Portfolio!</title>
+    <link>https://otakufreak13.github.io/tags/c&#43;&#43;/</link>
+    <description>Recent content in c&#43;&#43; on Welcome to My Portfolio!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/3d/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Swedish Metaballs</title>
-      <link>https://otakufreak13.github.io/projects/webgl/</link>
-      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://otakufreak13.github.io/projects/webgl/</guid>
-      <description>Metaballs in WebGL This is the colmination of the WebGL course I took.
-Basicaly the only thing that is sent to the shaders is a rectrectangle, in my case a point that is very large, that covers the whole canvas. It is in this rectangle where all the raymarching takes place in the fragment shader. The core parts of the raymarching is from Jamie Wongs tutorial at http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/.
-FPS: To move around in scene use WASD and spacebar/shift to go up and down .</description>
-    </item>
-    
-    <item>
-      <title>3D Cubes in WebGL</title>
-      <link>https://otakufreak13.github.io/projects/cubes/</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://otakufreak13.github.io/projects/cubes/</guid>
-      <description>Cubes in 3D space This is one of the assignments in the WebGL course. The textures don&amp;rsquo;t allways load in. Usually Loads in an a reload. Canvas Sandbox - Cubes in spaceFPS: Speed: xyzEye pointLook at pointUp vectorAnglexyzRotateTranslatefovaspectnearfarProjection</description>
-    </item>
-    
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LargeGameProject</title>
       <link>https://otakufreak13.github.io/projects/largegameproject/</link>

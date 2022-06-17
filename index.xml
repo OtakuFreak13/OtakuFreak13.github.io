@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio for Björn</title>
+    <title>Welcome to My Portfolio!</title>
     <link>https://otakufreak13.github.io/</link>
-    <description>Recent content on Portfolio for Björn</description>
+    <description>Recent content on Welcome to My Portfolio!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -33,7 +33,10 @@ FPS: To move around in scene use WASD and spacebar/shift to go up and down .</de
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/projects/largegameproject/</guid>
-      <description>Large Game Project: Hell Loop Game project spanning a whole semester with 9 other students made in a costum DX12 engine some of the students had ready from another course. Link to the game</description>
+      <description>Large Game Project: Hell Loop Link to the game on GameJolt
+Game project spanning a whole semester with 9 other students made in a custom DX12 engine some of the students had ready from another course.
+Hell Loop is a rogue-like 3rd-person hack-and-slash game where you encounter waves of enemies. Between the waves you can buy upgrades in a shop.
+My main responsibility was the upgrade system, the backend for the Shop and, since we had no technical artist, making the models we bought compatible with our animation system using Blender and Maya.</description>
     </item>
     
     <item>
@@ -42,7 +45,10 @@ FPS: To move around in scene use WASD and spacebar/shift to go up and down .</de
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/projects/smallgameproject/</guid>
-      <description>Small Game Project: KamiCarZe A smaller game project that took 3 months for me and 5 other students to complete. Made in one of the students OpenGL engine. Link to the game</description>
+      <description>Small Game Project: KamiCarZe Link to the game
+A smaller game project that took 3 months for me and 5 other students to complete. Made in one of the students OpenGL engine.
+It is a 2 to 4-player local multiplayer game where you control vehicles and ompete against your friends to be the last car standing.
+I mainly dealt with the UI and menues as well as the scoring system.</description>
     </item>
     
     <item>
@@ -51,7 +57,7 @@ FPS: To move around in scene use WASD and spacebar/shift to go up and down .</de
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/projects/gamephysicsexplosion/</guid>
-      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion physics. </description>
+      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion/shockwave physics. </description>
     </item>
     
     <item>

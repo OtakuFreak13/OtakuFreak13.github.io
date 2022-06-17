@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenGL on Portfolio for Björn</title>
+    <title>OpenGL on Welcome to My Portfolio!</title>
     <link>https://otakufreak13.github.io/tags/opengl/</link>
-    <description>Recent content in OpenGL on Portfolio for Björn</description>
+    <description>Recent content in OpenGL on Welcome to My Portfolio!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,10 @@
       <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/projects/smallgameproject/</guid>
-      <description>Small Game Project: KamiCarZe A smaller game project that took 3 months for me and 5 other students to complete. Made in one of the students OpenGL engine. Link to the game</description>
+      <description>Small Game Project: KamiCarZe Link to the game
+A smaller game project that took 3 months for me and 5 other students to complete. Made in one of the students OpenGL engine.
+It is a 2 to 4-player local multiplayer game where you control vehicles and ompete against your friends to be the last car standing.
+I mainly dealt with the UI and menues as well as the scoring system.</description>
     </item>
     
   </channel>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c# on Welcome to My Portfolio!</title>
+    <link>https://otakufreak13.github.io/tags/c#/</link>
+    <description>Recent content in c# on Welcome to My Portfolio!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://otakufreak13.github.io/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity 2D: Game Physics - Projectiles, Explosions and Shockwaves</title>
+      <link>https://otakufreak13.github.io/projects/gamephysicsexplosion/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://otakufreak13.github.io/projects/gamephysicsexplosion/</guid>
+      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion physics. </description>
+    </item>
+    
+  </channel>
+</rss>
