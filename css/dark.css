@@ -12,6 +12,11 @@
     overflow: hidden;
     margin-bottom: 20px;
   }
+
+  .projectteaser:hover {
+    transform: scale(1.01);
+    box-shadow: rgb(190, 187, 206) 5px 5px 0px 10px;
+  }
   
   html {
     background-color: rgb(var(--dark-primary-color));

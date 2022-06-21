@@ -18,6 +18,7 @@
 
   .projectteaser:hover {
     transform: scale(1.01);
+    box-shadow: #34323d 5px 5px 0px 10px;
   }
   
   @font-face {
