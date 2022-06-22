@@ -19,15 +19,6 @@ FPS: To move around in scene use WASD and spacebar/shift to go up and down .</de
     </item>
     
     <item>
-      <title>3D Cubes in WebGL</title>
-      <link>https://otakufreak13.github.io/projects/cubes/</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://otakufreak13.github.io/projects/cubes/</guid>
-      <description>Cubes in 3D space This is one of the assignments in the WebGL course. The textures don&amp;rsquo;t allways load in. Usually Loads in an a reload. Canvas Sandbox - Cubes in spaceFPS: Speed: xyzEye pointLook at pointUp vectorAnglexyzRotateTranslatefovaspectnearfarProjection</description>
-    </item>
-    
-    <item>
       <title>LargeGameProject</title>
       <link>https://otakufreak13.github.io/projects/largegameproject/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
