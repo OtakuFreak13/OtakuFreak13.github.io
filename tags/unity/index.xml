@@ -13,9 +13,8 @@
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/projects/gamephysicsexplosion/</guid>
-      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion/shockwave physics.
-You control the tank with A and D to move, Q and E to angle the turret and W and S to increase/decrease the launch velocity of the projectile.
-Yuo can also change the gravity or how fast time passes by typing in the</description>
+      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion/shockwave physics. The max power/velocity is mach 2.89 since that was the velocity of the shell used in the calculations we read and we have drag coefficents up to that velocity.
+You control the tank with A and D to move, Q and E to angle the turret and W and S to increase/decrease the launch velocity of the projectile.</description>
     </item>
     
   </channel>

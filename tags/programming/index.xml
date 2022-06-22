@@ -38,7 +38,7 @@ My main responsibility was the upgrade system, the backend for the Shop and, sin
       <guid>https://otakufreak13.github.io/projects/smallgameproject/</guid>
       <description>Small Game Project: KamiCarZe Link to the game
 A smaller game project that took 3 months for me and 5 other students to complete. Made in one of the students OpenGL engine.
-It is a 2 to 4-player local multiplayer game where you control vehicles and ompete against your friends to be the last car standing.
+It is a 2 to 4-player local multiplayer game where you control vehicles and compete against your friends to be the last car standing.
 I mainly dealt with the UI and menues as well as the scoring system.</description>
     </item>
     
@@ -48,9 +48,8 @@ I mainly dealt with the UI and menues as well as the scoring system.</descriptio
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://otakufreak13.github.io/projects/gamephysicsexplosion/</guid>
-      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion/shockwave physics.
-You control the tank with A and D to move, Q and E to angle the turret and W and S to increase/decrease the launch velocity of the projectile.
-Yuo can also change the gravity or how fast time passes by typing in the</description>
+      <description>Unity 2D project for Game Pysics course A Unity 2D project made by me and another student for our game physics course. The project uses our own projectile and explosion/shockwave physics. The max power/velocity is mach 2.89 since that was the velocity of the shell used in the calculations we read and we have drag coefficents up to that velocity.
+You control the tank with A and D to move, Q and E to angle the turret and W and S to increase/decrease the launch velocity of the projectile.</description>
     </item>
     
   </channel>
